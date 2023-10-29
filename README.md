@@ -1,6 +1,6 @@
 Hey! I'm Benisha Sheryl Bene D Anand 
 
-[![Facebook](https://your-image-link.com)]([https://www.facebook.com/your-profile-link](https://www.facebook.com/profile.php?id=100084942113575))
+[![Facebook](https://your-image-link.com)](https://www.facebook.com/profile.php?id=100084942113575))
 
 
 <!--
