@@ -1,6 +1,7 @@
 ![Profile Banner](https://github.com/anandsheryl/Images-profile/blob/main/Neutral%20Modern%20Web%20Developer%20LinkedIn%20Banner%20(1).jpg?raw=true)
 
 Hey! I'm Benisha Sheryl Bene D Anand! 
+I am a student, aspiring Web Designer & Developer, part-time Music Instructor. 
 
 
 <!--
