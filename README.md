@@ -16,6 +16,7 @@ Skills:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  ![MicrosoftSQLServer](https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
 
 
+![AdobeIllustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white)  ![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)
 <!--
 **anandsheryl/anandsheryl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
