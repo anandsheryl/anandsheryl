@@ -5,7 +5,7 @@ Hey! I'm Benisha Sheryl Bene D Anand!
 I am a student , aspiring Web Designer & Developer 💻, and part-time Music Instructor. 🎵🎹 
 Connect with me:
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 <!--
 **anandsheryl/anandsheryl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
