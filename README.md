@@ -8,6 +8,8 @@ Connect with me on:
 
 ![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)   ![facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=Facebook&logoColor=white)   ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
 
+![Skills_Banner](https://github.com/anandsheryl/Images-profile/blob/main/Neon%20Gradient%20Geometric%20Design%20Studio%20Principles%20List%20Instagram%20Post.jpg?raw=true)
+
 <!--
 **anandsheryl/anandsheryl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
