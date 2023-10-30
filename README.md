@@ -4,7 +4,7 @@ Hey! I'm Benisha Sheryl Bene D Anand!
 
 I am a student , aspiring Web Designer & Developer 💻, and part-time Music Instructor. 🎵🎹 
 
-Connect with me:
+Connect with me on:
 
 ![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)   ![facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=Facebook&logoColor=white)   ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
 
