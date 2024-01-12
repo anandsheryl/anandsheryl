@@ -20,7 +20,7 @@ Skills:
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white) 
 
-![WordPress](https://img.shields.io/badge/WordPress-#21759B?style=for-the-badge&logo=WordPress&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white) 
 <!--
 **anandsheryl/anandsheryl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
