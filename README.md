@@ -6,7 +6,7 @@ I am a student , aspiring Web Designer & Developer 💻, and part-time Music Ins
 
 Connect with me on:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)]()   ![facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=Facebook&logoColor=white)   [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sheryl.anand.11/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/benisha-sheryl-bene-d-anand-89739325b/)   [![facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/people/Benisha-Sheryl-Anand/pfbid0Vta2jZabx4ZaAj1N92b4YhDQKcLhTNBWEMheiwff7GLbVSQgmeEsVmvjcU919zQAl/)   [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sheryl.anand.11/)
 
 Skills:
 
